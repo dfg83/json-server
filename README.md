@@ -1,7 +1,5 @@
 # JSON Server [![](https://travis-ci.org/typicode/json-server.svg?branch=master)](https://travis-ci.org/typicode/json-server) [![](https://badge.fury.io/js/json-server.svg)](http://badge.fury.io/js/json-server)
 
-### Important: looking for your feedback, [JSON Server survey](https://goo.gl/forms/NRC6rlJGkHaDdTrP2), thanks 🙏
-
 Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
 
 Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
@@ -12,20 +10,25 @@ Created with <3 for front-end developers who need a quick back-end for prototypi
 See also:
 * :dog: [husky - Git hooks made easy](https://github.com/typicode/husky)
 * :hotel: [hotel - developer tool with local .localhost domain and https out of the box](https://github.com/typicode/hotel)
-* :atom_symbol: [react-fake-props - generate fake props for your React tests (Jest, Enzyme, ...)](https://github.com/typicode/react-fake-props)
-* :heartpulse: [Patreon page - if you want to support JSON Server or my other projects](https://www.patreon.com/typicode)
+* ⚛️ 🔧 [react-lodash - lodash as React components](https://github.com/typicode/react-lodash)
+
+<a href="https://www.patreon.com/typicode">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 ## Sponsors
 
-<a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">
-  <img src="https://i.imgur.com/2LDiENb.png" height="60px">
-</a>
+<p align="center">
+  <a href="https://tryretool.com/?utm_source=sponsor&utm_campaign=typicode" target="_blank">
+    <img src="https://i.imgur.com/IBItATn.png" height="60px">
+  </a>
+</p>
 
-[[Become a sponsor]](https://patreon.com/typicode)
+<p align="center">
+  <a href="https://patreon.com/typicode">Become a sponsor and have your company logo here</a>
+</p>
 
 ## Table of contents
-
-<details>
 
 <!-- toc -->
 
@@ -69,8 +72,6 @@ See also:
 - [License](#license)
 
 <!-- tocstop -->
-
-</details>
 
 ## Getting started
 
@@ -315,7 +316,7 @@ __Tip__ use modules like [Faker](https://github.com/Marak/faker.js), [Casual](ht
 
 ### HTTPS
 
-There's many way to set up SSL in development. One simple way though is to use [hotel](https://github.com/typicode/hotel).
+There are many ways to set up SSL in development. One simple way is to use [hotel](https://github.com/typicode/hotel).
 
 ### Add custom routes
 
@@ -581,7 +582,7 @@ You can deploy JSON Server. For example, [JSONPlaceholder](http://jsonplaceholde
 * [Node Module Of The Week - json-server](http://nmotw.in/json-server/)
 * [Mock up your REST API with JSON Server](http://www.betterpixels.co.uk/projects/2015/05/09/mock-up-your-rest-api-with-json-server/)
 * [ng-admin: Add an AngularJS admin GUI to any RESTful API](http://marmelab.com/blog/2014/09/15/easy-backend-for-your-restful-api.html)
-* [Fast prototyping using Restangular and Json-server](http://glebbahmutov.com/blog/fast-prototyping-using-restangular-and-json-server/)
+* [Fast prototyping using Restangular and Json-server](https://glebbahmutov.com/blog/fast-prototyping-restangular-and-json-server/)
 * [Create a Mock REST API in Seconds for Prototyping your Frontend](https://coligo.io/create-mock-rest-api-with-json-server/)
 * [No API? No Problem! Rapid Development via Mock APIs](https://medium.com/@housecor/rapid-development-via-mock-apis-e559087be066#.93d7w8oro)
 * [Zero Code REST With json-server](https://dzone.com/articles/zero-code-rest-with-json-server)
@@ -596,4 +597,6 @@ You can deploy JSON Server. For example, [JSONPlaceholder](http://jsonplaceholde
 
 ## License
 
-MIT - [Typicode](https://github.com/typicode) - [Patreon](https://www.patreon.com/typicode)
+MIT
+
+[Patreon](https://www.patreon.com/typicode) - [Supporters](https://thanks.typicode.com) ✨
